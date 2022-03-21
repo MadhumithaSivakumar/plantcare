@@ -1,16 +1,5 @@
 # plantcare
 
-A new Flutter project.
+A new Flutter project for plant diseases classification
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is used to classify plant diseases by recognizing the images.It has a signup and login page where by entering the credentials the user can signin.For predicting the disease the user can upload the image from gallery then machine learning model is run over the project to predict the disease.It also has a posts page where the user can post their known and own solutions for a particular plant disease.
